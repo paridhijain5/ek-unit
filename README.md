@@ -31,7 +31,4 @@ Tariff values are editable demo numbers, not any utility's official rates. Edit 
 Bill photo OCR, Hindi and regional languages, smart-meter data import, state-wise tariff database, WhatsApp bot.
 
 ## Team Vanta
-- Member 1 – role
-- Member 2 – role
-- Member 3 – role
-- Member 4 – role
+- Member - Paridhi Jain
